@@ -3,39 +3,39 @@
     "id": 1,
     "name": "Emily Johnson",
     "role": "Food Blogger",
-    "image": "https://i.ibb.co/qjK8ScC/emily.jpg",
+    "image": "https://www.hlimg.com/images/stories/738X538/megan-fox1-z.jpg",
     "rating": 5,
-    "review": "FreshBasket is my go-to store for all grocery needs. Their produce is always fresh, and the delivery is super fast!"
+    "review": "FreshBasket is my go-to store for all grocery needs. Their produce is always fresh?"
   },
   {
     "id": 2,
     "name": "David Smith",
     "role": "Chef",
-    "image": "https://i.ibb.co/nzQGY2B/david.jpg",
+    "image": "https://imgix.ranker.com/user_node_img/37/728614/original/728614-photo-u1143152222?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=355",
     "rating": 5,
-    "review": "As a chef, quality ingredients are everything. FreshBasket consistently delivers the best vegetables and pantry staples."
+    "review": "As a chef, are everything. FreshBasket consistently delivers the best vegetables ."
   },
   {
     "id": 3,
     "name": "Alya Zahra",
     "role": "Model",
-    "image": "https://i.ibb.co/Xj6nQHc/alya.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxNzc5MDAzOV5BMl5BanBnXkFtZTcwMDUxMjMxMw@@._V1_.jpg",
     "rating": 5,
-    "review": "Shopping online with FreshBasket has saved me so much time. Always fresh, affordable, and reliable."
+    "review": "Shopping online with FreshBasket has saved me so much time. Always fresh."
   },
   {
     "id": 4,
     "name": "John Carter",
     "role": "Health Coach",
-    "image": "https://i.ibb.co/0cR4LhJ/john.jpg",
+    "image": "https://shilpaahuja.com/wp-content/uploads/2015/09/bradley-cooper-sexy-suit-hollywood-hot-sexiest-actor-men-movie-star-handsome-recent.jpg",
     "rating": 4,
-    "review": "I love their organic section! Everything is fresh and delivered right on time."
+    "review": "I love their organic section! Everything is fresh right on time."
   },
   {
     "id": 5,
     "name": "Sophia Lee",
     "role": "Nutritionist",
-    "image": "https://i.ibb.co/6Dv7hSk/sophia.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6TAhqL1kFgwn13hTXT7RduDeH9XuI5XKJVUNn1olD5BbGRT6g6wXZCgJ1os1ObDiSGI&usqp=CAU",
     "rating": 5,
     "review": "Excellent service and great product quality. Highly recommended for healthy living!"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Michael Brown",
     "role": "Fitness Trainer",
-    "image": "https://i.ibb.co/nQzjVJ5/michael.jpg",
+    "image": "https://www.shutterstock.com/image-photo/oldenburg-germany-september-15-2024-260nw-2523207681.jpg",
     "rating": 5,
     "review": "Super easy ordering process, fast delivery, and the groceries are top-notch!"
   }
