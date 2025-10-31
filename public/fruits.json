@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=400&q=80",
+    "description": "Fresh and juicy red apples.\nPerfect for snacking or baking.",
+    "vitamins": "Vitamin C, Vitamin K, Vitamin B6",
+    "price": "3 USD/kg",
+    "benefits": "Boosts immunity, improves heart health, aids digestion"
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e8f8?auto=format&fit=crop&w=400&q=80",
+    "description": "Ripe yellow bananas full of energy.\nGreat for smoothies and breakfast.",
+    "vitamins": "Vitamin B6, Vitamin C, Vitamin A",
+    "price": "2 USD/kg",
+    "benefits": "Provides energy, supports digestion, good for heart"
+  },
+  {
+    "id": 3,
+    "title": "Orange",
+    "image": "https://images.unsplash.com/photo-1589917365811-78c660fc0f04?auto=format&fit=crop&w=400&q=80",
+    "description": "Sweet and tangy oranges.\nRich in vitamin C for daily health.",
+    "vitamins": "Vitamin C, Vitamin A, Folate",
+    "price": "4 USD/kg",
+    "benefits": "Boosts immunity, improves skin, prevents anemia"
+  },
+  {
+    "id": 4,
+    "title": "Strawberry",
+    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=400&q=80",
+    "description": "Fresh red strawberries.\nPerfect for desserts and smoothies.",
+    "vitamins": "Vitamin C, Vitamin K, Folate",
+    "price": "6 USD/kg",
+    "benefits": "Antioxidant-rich, improves heart health, boosts immunity"
+  },
+  {
+    "id": 5,
+    "title": "Mango",
+    "image": "https://images.unsplash.com/photo-1592878900504-2873d36c1a4d?auto=format&fit=crop&w=400&q=80",
+    "description": "Sweet and juicy mangoes.\nIdeal for summer treats and shakes.",
+    "vitamins": "Vitamin A, Vitamin C, Vitamin E",
+    "price": "5 USD/kg",
+    "benefits": "Improves eyesight, boosts immunity, aids digestion"
+  },
+  {
+    "id": 6,
+    "title": "Pineapple",
+    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=400&q=80",
+    "description": "Tropical pineapples with tangy flavor.\nGreat for snacks and juices.",
+    "vitamins": "Vitamin C, Vitamin B1, Vitamin B6",
+    "price": "4.5 USD/kg",
+    "benefits": "Aids digestion, anti-inflammatory, boosts immunity"
+  }
+]

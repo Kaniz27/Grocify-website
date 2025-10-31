@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react";
-import Heading from "../Heading/Heading";
+import Heading from "../Heading/Heading"; 
+import { useNavigate } from "react-router"; 
 
 const Category = () => {
   const [categories, setCategories] = useState([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("category.json") // JSON file public folder-e
+    fetch("category.json")
       .then((res) => res.json())
       .then((data) => setCategories(data))
       .catch((err) => console.error(err));
@@ -13,7 +15,7 @@ const Category = () => {
 
   return (
     <section>
-      <div className="py-20 text-center">
+      <div className="pb-20 text-center">
         <Heading highlight="Shop" heading="by Category" />
       </div>
 
@@ -31,7 +33,12 @@ const Category = () => {
             />
             <h3 className="text-2xl font-bold">{category.title}</h3>
             <p className="text-gray-600 mt-3">{category.description}</p>
-            <button className="mt-6 bg-gradient-to-b from-orange-400 to-orange-500 text-white py-3 px-10 font-semibold rounded-full shadow-md hover:from-green-500 hover:scale-105 transition-all duration-300">
+
+            {/* ✅ navigate button */}
+            <button
+              onClick={() => navigate("/fruit")}
+              className="mt-6 bg-gradient-to-b from-orange-400 to-orange-500 text-white py-3 px-10 font-semibold rounded-full shadow-md hover:from-green-500 hover:scale-105 transition-all duration-300"
+            >
               See All
             </button>
           </div>

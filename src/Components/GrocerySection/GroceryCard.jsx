@@ -19,7 +19,7 @@ const GroceryCard = ({ item }) => {
         <img
           src={item.image}
           alt={item.title}
-          className="w-40 h-40 object-contain"
+          className="w-full object-contain"
         />
       </div>
 

@@ -1,7 +1,9 @@
 import React from "react";
-import discountImg from "../../assets/fresh-fruits.png"; // তোমার image path ঠিক করে নিও
+import discountImg from "../../assets/fresh-fruits.png"; 
+import { useNavigate } from "react-router";
 
 const Discount = () => {
+  const navigate = useNavigate();
   return (
     <section
       className="relative container mx-auto py-20 px-6 flex flex-col md:flex-row items-center justify-between gap-10 rounded-2xl shadow-lg overflow-hidden bg-orange-100"
@@ -30,7 +32,7 @@ const Discount = () => {
             Enjoy 20% off on all organic fruits and vegetables this week only.
             Grab your healthy essentials now!
           </p>
-          <button className="mt-6 bg-gradient-to-b from-orange-400 to-orange-500 text-white py-3 px-8 font-semibold rounded-full shadow-md hover:from-green-500 hover:scale-105 transition-all duration-300">
+          <button  onClick={() => navigate("/discount")} className="mt-6 bg-gradient-to-b from-orange-400 to-orange-500 text-white py-3 px-8 font-semibold rounded-full shadow-md hover:from-green-500 hover:scale-105 transition-all duration-300">
            Get Discount
           </button>
         </div>

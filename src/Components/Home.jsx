@@ -4,12 +4,14 @@ import Hero from '../Hero/Hero';
 import Category from '../Category/Category';
 import Values from '../Values/Values';
 import Section from '../../Section/SEction';
-import Products from '../Products/Products';
+
 import GroceryContainer from '../GrocerySection/GroceryContainer';
 import Discount from '../Discount/Discount';
 import Process from '../Process/Process';
 import Testimonials from '../Testimonials/Testimonials';
 import Footer from '../Footer/Footer';
+import Products from './Product/Products';
+
 
 const Home = () => {
     return (
@@ -19,7 +21,7 @@ const Home = () => {
            <Category></Category>
            <Values></Values>
            <Section></Section>
-           {/* <Products></Products> */}
+          <Products></Products>
            <GroceryContainer></GroceryContainer>
            <Discount></Discount>
            <Process></Process>
