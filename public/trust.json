@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Trust",
+    "description": "We always maintain trust with our customers.",
+    "icon": "FaHandshake"
+  },
+  {
+    "id": 2,
+    "title": "Food Safety",
+    "description": "Our products are always 100% safe and hygienic.",
+    "icon": "FaLeaf"
+  },
+  {
+    "id": 3,
+    "title": "Always Trust",
+    "description": "You can rely on us for consistent quality.",
+    "icon": "FaCheckCircle"
+  },
+  {
+    "id": 4,
+    "title": "100% Organic",
+    "description": "All products are 100% organic and fresh.",
+    "icon": "FaSeedling"
+  }
+]

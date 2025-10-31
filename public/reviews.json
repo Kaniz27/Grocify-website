@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Emily Johnson",
+    "role": "Food Blogger",
+    "image": "https://i.ibb.co/qjK8ScC/emily.jpg",
+    "rating": 5,
+    "review": "FreshBasket is my go-to store for all grocery needs. Their produce is always fresh, and the delivery is super fast!"
+  },
+  {
+    "id": 2,
+    "name": "David Smith",
+    "role": "Chef",
+    "image": "https://i.ibb.co/nzQGY2B/david.jpg",
+    "rating": 5,
+    "review": "As a chef, quality ingredients are everything. FreshBasket consistently delivers the best vegetables and pantry staples."
+  },
+  {
+    "id": 3,
+    "name": "Alya Zahra",
+    "role": "Model",
+    "image": "https://i.ibb.co/Xj6nQHc/alya.jpg",
+    "rating": 5,
+    "review": "Shopping online with FreshBasket has saved me so much time. Always fresh, affordable, and reliable."
+  },
+  {
+    "id": 4,
+    "name": "John Carter",
+    "role": "Health Coach",
+    "image": "https://i.ibb.co/0cR4LhJ/john.jpg",
+    "rating": 4,
+    "review": "I love their organic section! Everything is fresh and delivered right on time."
+  },
+  {
+    "id": 5,
+    "name": "Sophia Lee",
+    "role": "Nutritionist",
+    "image": "https://i.ibb.co/6Dv7hSk/sophia.jpg",
+    "rating": 5,
+    "review": "Excellent service and great product quality. Highly recommended for healthy living!"
+  },
+  {
+    "id": 6,
+    "name": "Michael Brown",
+    "role": "Fitness Trainer",
+    "image": "https://i.ibb.co/nQzjVJ5/michael.jpg",
+    "rating": 5,
+    "review": "Super easy ordering process, fast delivery, and the groceries are top-notch!"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Fruits & Vegetables",
+    "description": "Fresh and organic fruits and vegetables delivered.",
+    "image": "https://t3.ftcdn.net/jpg/09/89/95/60/360_F_989956090_CM6nOeY9W9IT1QzMgtkA2YyPQCdaOk1o.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Dairy & Eggs",
+    "description": "Milk, cheese, yogurt, and eggs from trusted farms.",
+    "image": "https://t4.ftcdn.net/jpg/14/98/08/63/360_F_1498086366_lg7TOcTI8g1vytqDXA8SjI3v04cp1AVl.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Snacks & Beverages",
+    "description": "Tasty snacks, drinks, and beverages for everyday enjoyment.",
+    "image": "https://img.freepik.com/premium-photo/beer-snacks_926199-2448411.jpg?w=360"
+  }
+]
