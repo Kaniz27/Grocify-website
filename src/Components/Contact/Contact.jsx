@@ -3,16 +3,17 @@ import { FaFacebook, FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <section className="container mx-auto py-20 px-6">
-      <h2 className="text-4xl font-bold text-center mb-12">Contact Us</h2>
+    <section className="container mx-auto py-24 px-6 bg-blue-100 rounded-2xl my-10">
+      <h2 className="text-5xl text-orange-500 font-bold text-center mb-12">Contact Us</h2>
+      
 
-      <div className="flex flex-col md:flex-row gap-10">
+      <div className="flex items-center justify-between container gap-10  px-24 ">
         {/* Left side: Contact info */}
-        <div className="md:w-1/2 space-y-6">
+        <div className="md:w-1/2 space-y-6   rounded-md p-8 shadow-lg">
           <h3 className="text-2xl font-semibold">Get in Touch</h3>
           <p>FreshMart</p>
-          <p>123 Green Street, Dhaka, Bangladesh</p>
-          <p>Phone: +880123456789</p>
+          <p>MohammadPur, Dhaka, Bangladesh</p>
+          <p>Phone: +8801518988940</p>
           <p>Email: info@freshmart.com</p>
           <p>Hours: Mon-Sat 9am - 8pm</p>
 
@@ -52,7 +53,7 @@ const Contact = () => {
             ></textarea>
             <button
               type="submit"
-              className="bg-orange-400 text-white py-3 px-6 rounded-full shadow-md hover:scale-105 transition-transform"
+              className="bg-orange-500 text-white py-3 px-6 rounded-full shadow-md hover:scale-105 transition-transform"
             >
               Send Message
             </button>
@@ -60,8 +61,7 @@ const Contact = () => {
         </div>
       </div>
 
-      {/* Optional: Map */}
-     
+      
     </section>
   );
 };

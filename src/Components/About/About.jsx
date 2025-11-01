@@ -6,7 +6,7 @@ const About = () => {
       id: 1,
       title: "Fruits",
       description: "Fresh and organic fruits rich in vitamins.",
-      image: "https://cdn.pixabay.com/photo/2018/06/18/16/05/bananas-3486132_1280.jpg",
+      image: "https://t3.ftcdn.net/jpg/09/89/95/60/360_F_989956090_CM6nOeY9W9IT1QzMgtkA2YyPQCdaOk1o.jpg",
       vitamins: "C, A, K",
       benefits: ["Boosts immunity", "Provides energy"]
     },
@@ -14,7 +14,7 @@ const About = () => {
       id: 2,
       title: "Vegetables",
       description: "Fresh and healthy vegetables for everyday meals.",
-      image: "https://cdn.pixabay.com/photo/2018/03/16/18/06/carrots-3238574_1280.jpg",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXT93GGsU9Ix7VYvSFDio3L82mcPLVPqym8RkyDgbtryWG_On71y38_8y5rGWwuVwrMtE&usqp=CAU",
       vitamins: "A, K, C",
       benefits: ["Supports digestion", "Rich in fiber"]
     },
@@ -22,7 +22,7 @@ const About = () => {
       id: 3,
       title: "Dairy",
       description: "Milk, cheese, and yogurt from trusted farms.",
-      image: "https://cdn.pixabay.com/photo/2016/03/05/19/02/milk-1239380_1280.jpg",
+      image: "https://t4.ftcdn.net/jpg/14/98/08/63/360_F_1498086366_lg7TOcTI8g1vytqDXA8SjI3v04cp1AVl.jpg",
       vitamins: "D, B12, Calcium",
       benefits: ["Strengthens bones", "Boosts immunity"]
     },

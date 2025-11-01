@@ -25,10 +25,10 @@ const GroceryCard = ({ item }) => {
 
       {/* Info Section */}
       <div className="p-4 text-center">
-        <h3 className="text-xl font-semibold mb-2">{item.title}</h3>
-        <p className="text-gray-600 text-sm mb-3">{item.short_description}</p>
-        <p className="text-orange-600 font-bold mb-2">{item.unit}</p>
-        <p className="text-lg font-bold text-green-600">৳ {item.price}</p>
+        <h3 className="text-xl font-semibold mb-2">Name: {item.title}</h3>
+        <p className="text-gray-600  text-sm mb-3"><span className="text-[16px]  font-bold">Description</span>: {item.short_description}</p>
+        <p className="text-orange-600 font-bold mb-2">Weight: {item.unit}</p>
+        <p className="text-lg font-bold text-green-600">Price: ৳ {item.price}</p>
       </div>
     </div>
   );

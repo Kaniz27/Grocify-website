@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Banana",
-    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e8f8?auto=format&fit=crop&w=400&q=80",
+    "image": "https://cdn.standardmedia.co.ke/images/wysiwyg/images/OFkvGA1B4BANRiwpGXVrPtoVrTI7SJoF0fDYobMu.jpg",
     "description": "Ripe yellow bananas full of energy.\nGreat for smoothies and breakfast.",
     "vitamins": "Vitamin B6, Vitamin C, Vitamin A",
     "price": "2 USD/kg",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "title": "Orange",
-    "image": "https://images.unsplash.com/photo-1589917365811-78c660fc0f04?auto=format&fit=crop&w=400&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/1200px-Oranges_-_whole-halved-segment.jpg",
     "description": "Sweet and tangy oranges.\nRich in vitamin C for daily health.",
     "vitamins": "Vitamin C, Vitamin A, Folate",
     "price": "4 USD/kg",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "Strawberry",
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=400&q=80",
+    "image": "https://cdn.britannica.com/22/75922-050-D3982BD0/flowers-fruits-garden-strawberry-plant-species.jpg",
     "description": "Fresh red strawberries.\nPerfect for desserts and smoothies.",
     "vitamins": "Vitamin C, Vitamin K, Folate",
     "price": "6 USD/kg",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Mango",
-    "image": "https://images.unsplash.com/photo-1592878900504-2873d36c1a4d?auto=format&fit=crop&w=400&q=80",
+    "image": "https://afrisunorchards.com/wp-content/uploads/2023/12/mangoes-495x400.jpg",
     "description": "Sweet and juicy mangoes.\nIdeal for summer treats and shakes.",
     "vitamins": "Vitamin A, Vitamin C, Vitamin E",
     "price": "5 USD/kg",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "title": "Pineapple",
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?auto=format&fit=crop&w=400&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7SxOWYbcQgZG35EOPOKfLRL_GoY_F-QwFA&s",
     "description": "Tropical pineapples with tangy flavor.\nGreat for snacks and juices.",
     "vitamins": "Vitamin C, Vitamin B1, Vitamin B6",
     "price": "4.5 USD/kg",

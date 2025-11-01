@@ -34,7 +34,7 @@
     "title": "Banana",
     "category": "Fruit",
     "description": "Sweet ripe bananas.",
-    "image": "https://cdn.pixabay.com/photo/2018/06/18/16/05/bananas-3486132_1280.jpg",
+    "image": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/bananas-1354785_1920.jpg",
     "price": "2 USD/kg",
     "vitamins": "B6, C",
     "benefits": ["Energy", "Heart health"]
@@ -44,7 +44,7 @@
     "title": "Apple",
     "category": "Fruit",
     "description": "Crisp and juicy apples.",
-    "image": "https://cdn.pixabay.com/photo/2017/09/26/13/54/apple-2788662_1280.jpg",
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=400&q=80",
     "price": "3.5 USD/kg",
     "vitamins": "C, Fiber",
     "benefits": ["Digestive health", "Immunity"]
@@ -54,7 +54,7 @@
     "title": "Carrot",
     "category": "Vegetable",
     "description": "Fresh orange carrots.",
-    "image": "https://cdn.pixabay.com/photo/2018/03/16/18/06/carrots-3238574_1280.jpg",
+    "image": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/10/carrot-juice-1296x728-header.jpg?w=1155&h=1528",
     "price": "1.5 USD/kg",
     "vitamins": "A, K",
     "benefits": ["Good for eyes", "Boosts immunity"]
@@ -64,7 +64,7 @@
     "title": "Orange",
     "category": "Fruit",
     "description": "Juicy and sweet oranges.",
-    "image": "https://cdn.pixabay.com/photo/2017/01/20/00/30/oranges-1995056_1280.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/1200px-Oranges_-_whole-halved-segment.jpg",
     "price": "2.5 USD/kg",
     "vitamins": "C, Fiber",
     "benefits": ["Immunity", "Skin health"]
@@ -74,7 +74,7 @@
     "title": "Milk",
     "category": "Dairy",
     "description": "Fresh whole milk.",
-    "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/milk-1239380_1280.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTbFoz8U5IKKDd2KBg2uOcOnJRm1-Zdm9NQ&s",
     "price": "3 USD/liter",
     "vitamins": "D, Calcium",
     "benefits": ["Strong bones", "Energy"]
@@ -84,7 +84,7 @@
     "title": "Spinach",
     "category": "Vegetable",
     "description": "Fresh green spinach leaves.",
-    "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/spinach-1996473_1280.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT22WVzesvK3hYaCCYHNHRqh5RItix3EzeJiw&s",
     "price": "2 USD/kg",
     "vitamins": "A, C, K",
     "benefits": ["Rich in iron", "Boosts immunity"]
